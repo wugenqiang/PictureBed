@@ -6,4 +6,11 @@
 
 * 学习笔记地址：https://notebook.js.org
 
-CDN 加速：https://cdn.jsdelivr.net/gh/wugenqiang/PictureBed@master/CS-Notes/20200305171326.png
+CDN 加速：https://cdn.jsdelivr.net/gh/wugenqiang/PictureBed/images01/20200808121727.png
+
+使用格式： `![](https://cdn.jsdelivr.net/gh/wugenqiang/PictureBed/images01/20200808121727.png)`
+
+效果图：
+
+![](https://cdn.jsdelivr.net/gh/wugenqiang/PictureBed/images01/20200808121727.png)
+
